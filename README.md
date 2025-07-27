@@ -66,9 +66,9 @@ This tool is intended for:
 - Educational purposes
 - Testing your own devices
 
-**You must have explicit permission to test any device or system that you do not own.
+**You must have explicit permission to test any device or system that you do not own.**
 
-Use of this tool on third-party systems without explicit authorization is strictly prohibited and may be illegal in many jurisdictions.**
+**Use of this tool on third-party systems without explicit authorization is strictly prohibited and may be illegal in many jurisdictions.**
 
 ## Contributing
 
