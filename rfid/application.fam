@@ -1,0 +1,13 @@
+# RFID Gate Bruteforce App Manifest
+
+App(
+    appid="gate_rfid_brute",
+    name="RFID Gate Brute",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="gate_rfid_brute_app",
+    stack_size=2 * 1024,
+    fap_category="Tools",
+    fap_version="1.0",
+    fap_description="RFID gate bruteforce tool",
+    fap_author="voiscko",
+)
