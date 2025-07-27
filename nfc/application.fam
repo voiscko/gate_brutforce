@@ -1,17 +1,15 @@
-# For details & more options, see documentation/AppManifests.md in firmware repo
+# NFC Gate Bruteforce App Manifest
 
 App(
-    appid="template",  # Must be unique
-    name="App template",  # Displayed in menus
+    appid="gate_nfc_brute",
+    name="NFC Gate Brute",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="template_app",
     stack_size=2 * 1024,
-    fap_category="Examples",
-    # Optional values
-    # fap_version="0.1",
-    fap_icon="template.png",  # 10x10 1-bit PNG
-    # fap_description="A simple app",
-    # fap_author="J. Doe",
-    # fap_weburl="https://github.com/user/template",
-    fap_icon_assets="images",  # Image assets to compile for this application
+    fap_category="Tools",
+    fap_version="1.0",
+    fap_icon="template.png",
+    fap_description="NFC gate bruteforce tool",
+    fap_author="voiscko",
+    fap_icon_assets="images",
 )

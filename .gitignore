@@ -3,6 +3,8 @@
 *.elf
 dist/
 build/
+.fbt_cache/
+.ufbt/
 
 # IDE files
 .vscode/
